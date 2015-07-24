@@ -5,4 +5,5 @@ To operate netCDF files produced by ABINIT in python, the latest version of netc
 
 The problem to be solved in illustrated in the figure below.
 
+![alt tag](https://github.com/freude/Reading-grid-wave-functions-produced-by-ABINIT-/blob/master/drawing.eps)
 
