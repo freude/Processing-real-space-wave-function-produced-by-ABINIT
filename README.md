@@ -3,7 +3,7 @@ This software operates with ABINIT output data stored in netCDF files. The softw
 
 To operate netCDF files produced by ABINIT in python, the latest version of netcdf4-python should be installed.
 
-The problem to be solved in illustrated in the figure below.
+The problem to be solved is illustrated in the figure below.
 
-![alt tag](https://github.com/freude/Reading-grid-wave-functions-produced-by-ABINIT-/blob/master/drawing.ps)
+![alt tag](https://github.com/freude/Reading-grid-wave-functions-produced-by-ABINIT-/blob/master/drawing.png)
 
