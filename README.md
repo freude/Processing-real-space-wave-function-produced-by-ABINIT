@@ -1,4 +1,4 @@
-# Reading-grid-wave-functions-produced-by-ABINIT-
+#  Processing real space wave function produced by ABINIT
 This software operates with ABINIT output data stored in netCDF files. The software converts a wave functions computed on a grid in a primitive cell to the wave functions specified on a user-defined grid in a unit cell. The core of the program is kdtree intepolation tool implemented in python by https://github.com/thouis/align/blob/master/freak/invdisttree.py
 
 To operate netCDF files produced by ABINIT in python, the latest version of netcdf4-python should be installed.
